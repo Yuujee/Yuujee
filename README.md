@@ -1,5 +1,6 @@
-## Hi there 👋
-- Name: Yujie Xiong
+## Yujie Xiong
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e10c57b8-7f6c-46ea-8e1f-32c3f7952bf4" />
+
 - I’m currently working in bytedance in Hangzhou
 - I’m currently learning MultiAgent System
 - 📫 How to reach me
