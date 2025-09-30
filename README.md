@@ -1,4 +1,10 @@
 ## Hi there 👋
+- Name: Yujie Xiong
+- I’m currently working in bytedance in Hangzhou
+- I’m currently learning MultiAgent System
+- 📫 How to reach me
+  - Email: xiongyujie.xyj@bytedance.com
+
 
 <!--
 **Yuujee/Yuujee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
